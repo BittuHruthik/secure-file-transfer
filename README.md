@@ -12,5 +12,3 @@
 
 - Steganography
 - RSA Encryption for key exchange
-
-### By : Kasak Kodi
